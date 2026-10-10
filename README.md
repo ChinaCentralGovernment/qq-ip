@@ -1,2 +1,3 @@
-# qq-ip
-qq-ip database
+QQ号和其对应的ip还有ip归属地和运营商信息
+
+来源：qq缓存
